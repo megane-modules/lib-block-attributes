@@ -5,6 +5,7 @@ import lol.bai.megane.api.registry.CommonRegistrar;
 import lol.bai.megane.module.lba.provider.LibBlockAttributesFluidProvider;
 import net.minecraft.block.entity.BlockEntity;
 
+@SuppressWarnings("unused")
 public class MeganeLibBlockAttributes implements MeganeModule {
 
     @Override
